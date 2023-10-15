@@ -105,7 +105,7 @@ try:
     if get_github_username().lower() != account['username'].lower():
         remove_github_credential()
     else:
-        print("git config username is the same!")
+        print("Git config username is the same, so the windows credentials weren't erased.")
 
 
 except subprocess.CalledProcessError as e:
