@@ -1,4 +1,4 @@
-#What is this program?
+# What is this program?
 
 As the name already says - it's a git account switcher!
 It allows someone to switch between the accounts listed in their accounts.json file.
@@ -9,7 +9,7 @@ Separating the github portion with the git portion is something I'll be doing ne
 Python is required!
 As the python library win32cred is used in the code, the library needs to be installed for the code to work.
 
-#Initial configuration:
+# Initial configuration:
 
 ```cmd
 pip install win32cred
