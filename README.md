@@ -1,6 +1,6 @@
 # What is this program?
 
-As the name already says - it's a git config credentials switcher!
+As the name already says - it's a git account switcher (changes the git config username and e-mail)!
 It allows someone to switch between the accounts listed in their accounts.json file.
 
 
